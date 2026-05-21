@@ -14,7 +14,7 @@ namespace GymDesktopApp
         Label sub = new Label();
         // new update
         public MainForm()// new update
-        {
+        {// new update
             Text = "FitFlow Gym Management System";
             WindowState = FormWindowState.Maximized;
             FormBorderStyle = FormBorderStyle.FixedSingle;
