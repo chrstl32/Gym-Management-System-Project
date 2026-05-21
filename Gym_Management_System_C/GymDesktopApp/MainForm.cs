@@ -12,7 +12,7 @@ namespace GymDesktopApp
         Panel body = new Panel();
         Label head = new Label();
         Label sub = new Label();
-
+        // new update
         public MainForm()
         {
             Text = "FitFlow Gym Management System";
