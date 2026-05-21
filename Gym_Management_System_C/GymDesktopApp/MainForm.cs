@@ -8,7 +8,7 @@ namespace GymDesktopApp
     {
         Panel side = new Panel();
         Panel right = new Panel();
-        Panel header = new Panel();
+        Panel header = new Panel();//new update
         Panel body = new Panel();
         Label head = new Label();
         Label sub = new Label();
