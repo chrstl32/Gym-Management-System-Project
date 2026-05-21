@@ -21,7 +21,7 @@ namespace GymDesktopApp
             MaximizeBox = false;// new update
             BackColor = Theme.Bg;// new update
             MinimumSize = new Size(1366, 768);// new update
-
+            // new update
             side.Dock = DockStyle.Left;
             side.Width = 260;
             side.BackColor = Theme.Side;
