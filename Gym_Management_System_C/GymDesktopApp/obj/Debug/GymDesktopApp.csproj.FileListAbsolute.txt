@@ -5,7 +5,6 @@ C:\gym_management_system_project\DESKTOP_OPEN_IN_VISUAL_STUDIO\GymDesktopApp\obj
 C:\gym_management_system_project\DESKTOP_OPEN_IN_VISUAL_STUDIO\GymDesktopApp\obj\Debug\GymDesktopApp.exe
 C:\gym_management_system_project\DESKTOP_OPEN_IN_VISUAL_STUDIO\GymDesktopApp\obj\Debug\GymDesktopApp.pdb
 C:\gym_management_system_project\Gym_Management_System_C\GymDesktopApp\bin\Debug\GymDesktopApp.exe
-C:\gym_management_system_project\Gym_Management_System_C\GymDesktopApp\bin\Debug\GymDesktopApp.pdb
 C:\gym_management_system_project\Gym_Management_System_C\GymDesktopApp\obj\Debug\GymDesktopApp.csproj.AssemblyReference.cache
 C:\gym_management_system_project\Gym_Management_System_C\GymDesktopApp\obj\Debug\GymDesktopApp.csproj.CoreCompileInputs.cache
 C:\gym_management_system_project\Gym_Management_System_C\GymDesktopApp\obj\Debug\GymDesktopApp.exe

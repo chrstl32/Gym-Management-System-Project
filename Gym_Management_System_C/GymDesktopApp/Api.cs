@@ -12,7 +12,7 @@ namespace GymDesktopApp
     {
         public bool Success;
         public string Message = "";
-        public DataTable Data = new DataTable();//cgsfd
+        public DataTable Data = new DataTable();
     }
 
     public static class Api

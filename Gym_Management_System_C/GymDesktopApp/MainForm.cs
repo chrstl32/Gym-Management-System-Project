@@ -12,17 +12,17 @@ namespace GymDesktopApp
         Panel body = new Panel();
         Label head = new Label();
         Label sub = new Label();
-        // new update
-        public MainForm()// new update
-        {// new update
-            Text = "FitFlow Gym Management System";// new update
-            WindowState = FormWindowState.Maximized;// new update
-            FormBorderStyle = FormBorderStyle.FixedSingle;// new update
-            MaximizeBox = false;// new update
-            BackColor = Theme.Bg;// new update
-            MinimumSize = new Size(1366, 768);// new update
-            // new update
-            side.Dock = DockStyle.Left;// new update
+
+        public MainForm()
+        {
+            Text = "FitFlow Gym Management System";
+            WindowState = FormWindowState.Maximized;
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
+            BackColor = Theme.Bg;
+            MinimumSize = new Size(1366, 768);
+
+            side.Dock = DockStyle.Left;
             side.Width = 260;
             side.BackColor = Theme.Side;
 
