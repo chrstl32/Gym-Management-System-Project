@@ -18,7 +18,7 @@ namespace GymDesktopApp
             Text = "FitFlow Gym Management System";// new update
             WindowState = FormWindowState.Maximized;// new update
             FormBorderStyle = FormBorderStyle.FixedSingle;// new update
-            MaximizeBox = false;
+            MaximizeBox = false;// new update
             BackColor = Theme.Bg;
             MinimumSize = new Size(1366, 768);
 
