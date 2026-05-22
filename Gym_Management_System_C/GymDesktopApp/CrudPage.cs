@@ -15,7 +15,7 @@ namespace GymDesktopApp
         DataGridView grid = new DataGridView();//newupdate
         Panel toolbar = new Panel();//newupdate
         Panel formPanel = new Panel();//newupdate
-        FlowLayoutPanel form = new FlowLayoutPanel();
+        FlowLayoutPanel form = new FlowLayoutPanel();//newupdate
         Label status = new Label();
         Label formTitle = new Label();
 
