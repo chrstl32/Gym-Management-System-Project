@@ -10,9 +10,9 @@ namespace GymDesktopApp
     public class CrudPage : UserControl
     {
         string table;
-        string[] fallbackFields;
+        string[] fallbackFields;//newupdate
 
-        DataGridView grid = new DataGridView();
+        DataGridView grid = new DataGridView();//newupdate
         Panel toolbar = new Panel();
         Panel formPanel = new Panel();
         FlowLayoutPanel form = new FlowLayoutPanel();
