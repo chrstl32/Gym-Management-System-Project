@@ -11,9 +11,9 @@ namespace GymDesktopApp
         Panel header = new Panel();//new update
         Panel body = new Panel();//newupdate
         Label head = new Label();//newupdate
-        Label sub = new Label();
+        Label sub = new Label();//newupdate
 
-        public MainForm()
+        public MainForm()//newupdate
         {
             Text = "FitFlow Gym Management System";
             WindowState = FormWindowState.Maximized;
