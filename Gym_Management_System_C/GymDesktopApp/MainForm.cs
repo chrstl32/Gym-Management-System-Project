@@ -16,7 +16,7 @@ namespace GymDesktopApp
         public MainForm()//newupdate
         {
             Text = "FitFlow Gym Management System";//newupdate
-            WindowState = FormWindowState.Maximized;
+            WindowState = FormWindowState.Maximized;//newupdate
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
             BackColor = Theme.Bg;
