@@ -10,7 +10,7 @@ namespace GymDesktopApp
         Panel right = new Panel();
         Panel header = new Panel();//new update
         Panel body = new Panel();//newupdate
-        Label head = new Label();
+        Label head = new Label();//newupdate
         Label sub = new Label();
 
         public MainForm()
