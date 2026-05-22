@@ -13,7 +13,7 @@ namespace GymDesktopApp
         string[] fallbackFields;//newupdate
 
         DataGridView grid = new DataGridView();//newupdate
-        Panel toolbar = new Panel();
+        Panel toolbar = new Panel();//newupdate
         Panel formPanel = new Panel();
         FlowLayoutPanel form = new FlowLayoutPanel();
         Label status = new Label();
